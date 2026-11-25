@@ -17,5 +17,8 @@ tawa partie Jenkins
 ba3d 3malt push 3la GitHub w ba3d 
 ba3d 7alit 3malt pipeline 3la Jenkins w rbat bel repository mta3i 3la GitHub
 w lancit build 
+etape5:
+ba3d push it image 3la docker hub(depot distant)
+
 
 
